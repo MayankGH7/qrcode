@@ -33,7 +33,7 @@ The "QR Code Generator" web page allows you to perform the following actions:
 
 ## Screenshot
 
-<img src="./images/ui.jpg" />
+<img src="./images/ui.jpg" width='300px' />
 
 ## License
 
