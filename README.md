@@ -32,7 +32,8 @@ The "QR Code Generator" web page allows you to perform the following actions:
 4. Use the generated QR code for various purposes, such as sharing URLs or information in a scannable format.
 
 ## Screenshot
-![Alt UI](./images/ui.jpg)
+
+<img src="./images/ui.jpg" />
 
 ## License
 
