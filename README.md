@@ -6,7 +6,6 @@ This HTML web page is a simple QR code generator. You can enter text or a URL, a
 
 - [Description](#description)
 - [Usage](#usage)
-- [License](#license)
 
 ## Description
 
@@ -35,10 +34,3 @@ The "QR Code Generator" web page allows you to perform the following actions:
 
 <img src="./images/ui.jpg" width='300px' />
 
-## License
-
-This web page is provided as a simple QR code generator tool and does not require a specific license. You are free to use it for personal and non-commercial purposes.
-
----
-
-Enjoy using the QR Code Generator to create QR codes for your text or URLs!
